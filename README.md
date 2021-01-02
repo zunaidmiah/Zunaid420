@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Gist About Me-
 >Hi, Im Zunaid.
-Recently I was completed my B.Sc in Software Engineering from Daffodil International University
-I was develop 3 web project which are live now.
-I work as a web developer. I'm a laravel developer.
-I also work as a web designer in freelancing website. I had design more than 5 website using WordPress.
-My Personal website: http://engineerzunaid.epizy.com/
+-Recently I was completed my B.Sc in Software Engineering from Daffodil International University
+-I was develop 3 web project which are live now.
+-I work as a web developer. I'm a laravel developer.
+-I also work as a web designer in freelancing website. I had design more than 5 website using WordPress.
+-My Personal website: http://engineerzunaid.epizy.com/
