@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Gist About Me-
->Hi, Im Zunaid.
- </br>Recently I was completed my B.Sc in Software Engineering from Daffodil International University
- -</br> was develop 3 web project which are live now.
--I work as a web developer. I'm a laravel developer.
--I also work as a web designer in freelancing website. I had design more than 5 website using WordPress.
--My Personal website: http://engineerzunaid.epizy.com/
+>- 🔭 Hi, Im Zunaid.
+ </br>- 🌱 Recently I was completed my B.Sc in Software Engineering from Daffodil International University
+ </br>- 👯 I was develop 3 web project which are live now.
+</br>- 🔭 I work as a web developer. I'm a laravel developer.
+</br>- 🌱 I also work as a web designer in freelancing website. I had design more than 5 website using WordPress.
+</br>- ⚡ [My Personal website] (http://engineerzunaid.epizy.com/)
+</br>- ✨ I'm always looking for challenging work opportunities ahead.
+</br>- 🌱 I'll try to go beyond and push the bounds
+</br>- ✨ [Youtube Channel here](https://www.youtube.com/channel/UCD6pgCju2WaML1u1KWNCNVw)
+</br>-  🔭 [Linkedin here](https://www.linkedin.com/in/zunaid-miah-140a41161/)
+</br>So thanks,</br>Zunaid Miah</br>Software Engineer.
