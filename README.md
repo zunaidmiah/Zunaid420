@@ -24,6 +24,6 @@ Gist About Me-
 </br>- ⚡ [My Personal website](http://engineerzunaid.epizy.com/)
 </br>- ✨ I'm always looking for challenging work opportunities ahead.
 </br>- 🌱 I'll try to go beyond and push the bounds
-</br>- ✨ [Youtube Channel here](https://www.youtube.com/channel/UCD6pgCju2WaML1u1KWNCNVw)
-</br>-  🔭 [Linkedin here](https://www.linkedin.com/in/zunaid-miah-140a41161/)
-</br>So thanks,</br>Zunaid Miah</br>Software Engineer.
+</br>- ⚡ [Youtube Channel here](https://www.youtube.com/channel/UCD6pgCju2WaML1u1KWNCNVw)
+</br>-  ⚡ [Linkedin here](https://www.linkedin.com/in/zunaid-miah-140a41161/)
+</br></br></br>Thanks,</br>Zunaid Miah</br>Software Engineer.
